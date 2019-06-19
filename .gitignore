@@ -1,3 +1,16 @@
+### Maven ###
+target/
+dependency-reduced-pom.xml
+
+### IDEA ###
+.idea/
+*.iml
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
 ### OS ###
 *.lnk
 .DS_Store
