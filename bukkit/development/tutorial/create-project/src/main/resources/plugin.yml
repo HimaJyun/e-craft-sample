@@ -1,0 +1,4 @@
+main: "io.e_craft.projectsample.ProjectSample"
+name: "ProjectSample"
+version: "${project.version}"
+api-version: "1.14"
