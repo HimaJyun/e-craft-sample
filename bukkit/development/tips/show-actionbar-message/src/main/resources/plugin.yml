@@ -1,0 +1,8 @@
+main: "io.e_craft.actionbarsample.ActionBarSample"
+name: "ActionBarSample"
+version: "${project.version}"
+api-version: "1.14"
+
+commands:
+    test:
+        description: "ActionBar test"
