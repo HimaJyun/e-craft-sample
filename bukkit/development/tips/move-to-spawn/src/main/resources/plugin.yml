@@ -1,0 +1,8 @@
+main: "io.e_craft.movetospawn.MoveToSpawn"
+name: "MoveToSpawn"
+version: "${project.version}"
+api-version: "1.15"
+
+commands:
+    spawn:
+        description: "Move to spawn"
