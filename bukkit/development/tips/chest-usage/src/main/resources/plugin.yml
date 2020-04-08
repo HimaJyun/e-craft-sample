@@ -1,0 +1,4 @@
+main: "io.e_craft.chestusage.ChestUsage"
+name: "UseChest"
+version: "${project.version}"
+api-version: "1.15"
