@@ -1,0 +1,5 @@
+main: "io.e_craft.votifierusage.VotifierUsage"
+name: "VotifierUsage"
+version: "${project.version}"
+depend: ["Votifier"]
+api-version: "1.16"
